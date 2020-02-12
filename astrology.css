@@ -1,0 +1,31 @@
+.mb-15 {margin-bottom: 15px !important;}
+.mb-30 {margin-bottom: 30px !important;}
+.mb-50 {margin-bottom: 50px !important;}
+
+.bg-jumbotron {
+	opacity: 0.8;
+	background-size: cover;
+}
+
+.jumbotron h1 {
+	color: #fff;
+}
+
+.d-flex {
+	display: flex !important;
+}
+
+.d-flex.h-center {
+	justify-content: center !important;
+}
+
+
+.center-images {
+	margin: 0 auto;
+	display: block;
+	opacity: 0.9;
+}
+
+.texts {
+	text-align: justify;
+}
